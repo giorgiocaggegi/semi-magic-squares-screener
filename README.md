@@ -1,0 +1,2 @@
+# semi-magic-squares-screener
+
